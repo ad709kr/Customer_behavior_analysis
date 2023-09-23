@@ -29,7 +29,7 @@ These are  the observation based on the default dataset which we have created us
 ![monthly_revenue_growth](https://github.com/ad709kr/Customer_behavior_analysis/assets/102454963/f9787b7a-a811-460c-a693-09a1c50dd3a4)
 
 ## How to Use the app
-* step 1 : To clone the repository
+* step 1 : To clone the repository 'git clone repository-https://github.com/ad709kr/Customer_behavior_analysis.git'
 * step 2 : create an environment (streamlit) and install all packages from requirement.txt
 * step3 : Open terminal and write command 'streamlit run app.py'
 * After step3 a streamlit dashboard will open where you have two options: 1. Upload Custom dataset or 2. Use Default Dataset.
