@@ -5,7 +5,15 @@ CustomerID: Unique id for each customer
 VisitDate: Dates on which customer made a purchase
 TotalSpend: Total amount spend by the customer
 ProductCategory: Product Category
+We created a Dummy dataset of 1000 rows using Faker and used this data to create a dashboad.
 
-## Approach
-We created a dummy dataset using Faker consisting all the features. And used this dataset to calculate and visualise:
-The average spent per customer with 
+## Observation
+These are  the observation based on the default dataset which we have created using Faker, If users choose different datasets then results will vary.
+
+* The average spending per customer is: 984.75.
+**Top 10 customer with the maximum spending**
+**Top 10 most frequent customer**
+![most_frequent_customer](https://github.com/ad709kr/Customer_behavior_analysis/assets/102454963/d00bdd45-2cae-4454-91c5-8bbb6e15db7c)
+**Product Category:** Most Popular Product Category is Healthcare, with total number of sales: 108
+**Product Category vs total sales**
+**monthly revenue growth**
